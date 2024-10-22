@@ -38,3 +38,5 @@ print("---람다 함수 사용---")
 itemL = filter(lambda x:x>25, lst)
 for i in itemL:
     print("item:{0}".format(i))
+
+
